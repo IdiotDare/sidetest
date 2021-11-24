@@ -1,4 +1,6 @@
+/*
 var canvas = document.querySelector('canvas');
 
-canvas.width = 100%; //makes canvas expand to full width, excluding the margin
+canvas.width = 100%;
 canvas.height = 100%;
+*/

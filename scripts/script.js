@@ -16,7 +16,8 @@ function scrollWrapper(x){
     wrapper.scrollLeft = x;
 }
 
+var movement = 0
 if(event.37){
-    let movement = 3;
+    var movement = movement+3;
     scrollWrapper(movement);
 }

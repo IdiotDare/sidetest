@@ -13,7 +13,7 @@ function scrollWrapper(x, y){
 */
 function scrollWrapper(x){
     var wrapper = document.getElementById('wrapper');  
-    wrapper.scrollTop = x;
+    wrapper.scrollLeft = x;
 }
 
 if(event.37){
